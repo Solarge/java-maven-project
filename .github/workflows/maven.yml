@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Testing1 Secrets
+    - name: Testing2 Secrets
       run: |
         echo "$DEVOPS"
       env:
